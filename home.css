@@ -1,0 +1,14 @@
+/* Custom navbar styles */
+.navbar-custom {
+    background-color: #4CAF50;  /* Custom Green Background */
+  }
+  
+  .navbar-custom .navbar-brand,
+  .navbar-custom .nav-link {
+    color: white;  /* White text */
+  }
+  
+  .navbar-custom .nav-link:hover {
+    color: #FFD700;  /* Gold color on hover */
+  }
+  
